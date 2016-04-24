@@ -1,0 +1,1 @@
+"The Big One",Creates a friendly token bomb unit with 10 health that will self destruct at the start of next turn or when its health is depleted.  Upon destruction the bomb will deal 60 damage to all units iwthin its blast radius of 3 spaces.,1,5,1,BomblobberSkill2Buff1.bin,TheBigOne,1,0,None,None
